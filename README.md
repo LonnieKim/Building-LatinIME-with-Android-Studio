@@ -2,7 +2,7 @@
 
 Still doesn't build so this is a work in progress
 
-**1** Clone the [LatinIME](git clone https://android.googlesource.com/platform/packages/inputmethods/LatinIME) repository
+**1** Clone the [LatinIME](https://android.googlesource.com/platform/packages/inputmethods/LatinIME) repository
 
 **2** Import LatinIME/java folder in Android Studio
 
