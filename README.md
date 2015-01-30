@@ -13,3 +13,5 @@ Still doesn't build so this is a work in progress
 **5** Add libjni_latinime.so library to your project. To enable gesture typing, you'll want to get the libjni_latinimegoogle.so found in the Google Keyboard apk and also [here](http://www.theandroidsoul.com/download-new-apps-apks-android-5-0-lollipop-preview-images/)
 
 **6** Still lots of missing dependencies
+
+[Packages](https://github.com/VanirAOSP/packages_input_LatinIME/find/L5)
